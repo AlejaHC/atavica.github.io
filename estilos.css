@@ -1,0 +1,59 @@
+body{
+    background: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex-container{
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.caja{
+    border: 1px solid;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+}
+
+a{
+    color: #ffffff;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding: 15px;
+    line-height: 25px;
+}
+
+aside{
+    float: left;
+    width: 50%;
+}
+
+.dorado{
+    color: #cfb53b;
+}
+
+.rojo{
+    color: red;
+}
+
+.gris{
+    color: gray;
+}
+
+p.blanco{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 70px;
+}
+
